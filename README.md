@@ -7,7 +7,7 @@ A Roadmap to Learn Ember.js in 2019
 Skill tree diagram generated with [Draw.io](http://draw.io)
 
 ## Contributing Guidelines
-Please refer to [Contributing](https://github.com/rajasegar/ember-developer-roadmp/raw/master/CONTRIBUTING.md)
+Please refer to [Contributing](https://github.com/rajasegar/ember-developer-roadmap/blob/master/CONTRIBUTING.md)
 
 ## Other Roadmaps
 - [React Developer Roadmap](https://github.com/adam-golab/react-developer-roadmap)
